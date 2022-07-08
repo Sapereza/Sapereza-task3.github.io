@@ -1,5 +1,10 @@
 h1{
 text-align: center;
+border-style:outset;
+border-color:deepskyblue;
+border-radius:25px;
+border-width:5px;
+padding:5px;
 
 
 }
